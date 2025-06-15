@@ -17,7 +17,7 @@ We hope this platform can be a useful tool for the Kohwi Lab’s ongoing researc
 
 
 ### Website Functionality
-In lieu of a live site, below are screenshots illustrating key features. A full screen recording of the web application in use is also available in the media/ folder (media/demo.mp4).
+In lieu of a live site, below are screenshots illustrating key features. [Click here to watch a full demo of the Hi-C database]([https://drive.google.com/your_shared_link_here](https://drive.google.com/file/d/1DKp1AD3goDffBIloDLpOnwyTYixeOVYX/view))
 
 #### Homepage 
 The homepage contains some general information about the lab and its research. 
