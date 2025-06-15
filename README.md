@@ -17,6 +17,7 @@ We hope this platform can be a useful tool for the Kohwi Lab’s ongoing researc
 
 
 ### Website Functionality
+In lieu of a live site, below are screenshots illustrating key features. A full screen recording of the web application in use is also available in the media/ folder (media/demo.mp4).
 
 #### Homepage 
 The homepage contains some general information about the lab and its research. 
@@ -24,18 +25,19 @@ The homepage contains some general information about the lab and its research.
 
 
 ### Hi-C Tab 
-The Hi-C tab is the main interface between the SQL database and the user. Here the user can extract data from one experiment or compare two experiments based on gene name or gene location. 
+The Hi-C tab is the main interface between the SQL database and the user. Users can extract interaction data from one experiment or compare two experiments based on gene name or genomic coordinates.
+
 ![Alt text](media/hic_tab.png)
 ![Alt text](media/hictab2.png)
 
-When the user searches the database, a table of interactions is outputted for display and download as a CSV. 
+Query results are displayed in a downloadable table:
 ![Alt text](media/hicoutput.png)
 
-The user can also visualize the Hi-C data for a particular gene or region on a heatmap plot. 
+Users can also visualize Hi-C interaction maps as heatmaps for the selected region or gene:
 ![Alt text](media/hicplot.png)
 
 ### Genome Browser Tab
-The genome browser tab allows the user to navigate an external UCSC genome browser with a gene name or region of interest. 
+This tab allows users to navigate to an external UCSC Genome Browser instance, using either a gene name or genomic region of interest.
 ![Alt text](media/genomebrowser.png)
 
 ### Login Tab 
