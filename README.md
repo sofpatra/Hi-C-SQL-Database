@@ -25,14 +25,25 @@ The homepage contains some general information about the lab and its research.
 
 ### Hi-C Tab 
 The Hi-C tab is the main interface between the SQL database and the user. Here the user can extract data from one experiment or compare two experiments based on gene name or gene location. 
-![Alt text](media/hic.png)
+![Alt text](media/hic_tab.png)
+![Alt text](media/hictab2.png)
+
+When the user searches the database, a table of interactions is outputted for display and download as a CSV. 
+![Alt text](media/hicoutput.png)
 
 The user can also visualize the Hi-C data for a particular gene or region on a heatmap plot. 
-![Alt text](media/hic.png)
+![Alt text](media/hicplot.png)
 
 ### Genome Browser Tab
 The genome browser tab allows the user to navigate an external UCSC genome browser with a gene name or region of interest. 
 ![Alt text](media/genomebrowser.png)
 
 ### Login Tab 
+The login functinality allows the lab to keep somethings accessible only to users with the login information. 
 ![Alt text](media/login.png)
+
+Behind the login, the lab members are able to upload new data, add notes to a lab notes display, and view the experiments currently included in the database.
+![Alt text](media/login2.png)
+
+Lab memebers are also able to delete certain experiments from the database after logging in. 
+![Alt text](media/experimentstable.png)
