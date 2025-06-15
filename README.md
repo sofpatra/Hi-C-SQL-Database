@@ -14,3 +14,25 @@ Katie Kitrick
 Sydney Sorbello
 
 We hope this platform can be a useful tool for the Kohwi Lab’s ongoing research and a model for organizing and visualizing high-dimensional genomics data.
+
+
+### Website Functionality
+
+#### Homepage 
+The homepage contains some general information about the lab and its research. 
+![Alt text](media/homepage.png)
+
+
+### Hi-C Tab 
+The Hi-C tab is the main interface between the SQL database and the user. Here the user can extract data from one experiment or compare two experiments based on gene name or gene location. 
+![Alt text](media/hic.png)
+
+The user can also visualize the Hi-C data for a particular gene or region on a heatmap plot. 
+![Alt text](media/hic.png)
+
+### Genome Browser Tab
+The genome browser tab allows the user to navigate an external UCSC genome browser with a gene name or region of interest. 
+![Alt text](media/genomebrowser.png)
+
+### Login Tab 
+![Alt text](media/login.png)
