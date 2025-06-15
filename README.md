@@ -4,6 +4,7 @@ This repository contains the source code for the Kohwi Lab Hi-C Database, a sear
 The database and accompanying Flask web application allow users to browse experiment metadata and generate custom Hi-C plots using pyGenomeTracks, based on user-specified genes or genomic regions. While no raw experimental data is included, the repository provides all code necessary to set up and run the database locally, including the backend (Flask and MariaDB), front-end HTML templates, and plotting scripts.
 
 This project was developed collaboratively by four students in the Boston University Master of Science in Bioinformatics program:
+
 Sofiya Patra
 
 Dhruvi Joshi
